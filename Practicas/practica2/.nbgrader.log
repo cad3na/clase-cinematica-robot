@@ -1,0 +1,103 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/roberto/clases/cinematica-robot-master/practica2
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=2350512689cc1dee5cd8a9df6d3e4b270d953cfd119c0849
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=2350512689cc1dee5cd8a9df6d3e4b270d953cfd119c0849
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] 404 GET /static/components/moment/locale/es-xl.js?v=20180108095717 (::1) 16.48ms referer=http://localhost:8888/tree
+[NotebookApp | INFO] 302 GET /notebooks/imagenes/rotacion.svg (::1) 1.39ms
+[NotebookApp | INFO] Kernel started: 2afb06b1-c865-4325-943c-88d7b72fcf15
+[NotebookApp | WARNING] 404 GET /static/components/moment/locale/es-xl.js?v=20180108095717 (::1) 2.91ms referer=http://localhost:8888/notebooks/Practica%202%20-%20Transformaciones%20homogeneas.ipynb
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180108095717 (::1) 2.77ms referer=http://localhost:8888/notebooks/Practica%202%20-%20Transformaciones%20homogeneas.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2afb06b1-c865-4325-943c-88d7b72fcf15
+[NotebookApp | INFO] 302 GET /notebooks/imagenes/rotacion.svg (::1) 2.01ms
+[NotebookApp | INFO] Saving file at /Practica 2 - Transformaciones homogeneas.ipynb
+[NotebookApp | WARNING] Notebook Reporte_P2-Nombre_del_Alumno.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 15057c9a-b9c2-47ba-87b1-e0e106d11fd6
+[NotebookApp | WARNING] 404 GET /static/components/moment/locale/es-xl.js?v=20180108095717 (::1) 11.49ms referer=http://localhost:8888/notebooks/Reporte_P2-Nombre_del_Alumno.ipynb
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180108095717 (::1) 3.53ms referer=http://localhost:8888/notebooks/Reporte_P2-Nombre_del_Alumno.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 15057c9a-b9c2-47ba-87b1-e0e106d11fd6
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Practica.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Practica.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/Users/roberto/clases/cinematica-robot-master/practica2/Problemas.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Starting buffering for 15057c9a-b9c2-47ba-87b1-e0e106d11fd6:D51EE8A9F5B44DD9A9DA32B8639DBD63
+[NotebookApp | INFO] Kernel restarted: 15057c9a-b9c2-47ba-87b1-e0e106d11fd6
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/Users/roberto/clases/cinematica-robot-master/practica2/Problemas.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 15057c9a-b9c2-47ba-87b1-e0e106d11fd6
+[NotebookApp | INFO] Restoring connection for 15057c9a-b9c2-47ba-87b1-e0e106d11fd6:D51EE8A9F5B44DD9A9DA32B8639DBD63
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Problemas.ipynb
+[NotebookApp | INFO] Saving file at /Practica.ipynb
+[NotebookApp | INFO] Saving file at /Practica.ipynb
+[NotebookApp | INFO] Saving file at /Practica.ipynb
+[NotebookApp | INFO] Saving file at /Practica.ipynb
+[NotebookApp | INFO] Saving file at /Practica.ipynb
+[NotebookApp | INFO] Saving file at /Practica.ipynb
+[NotebookApp | INFO] Saving file at /Practica.ipynb
+[NotebookApp | INFO] Starting buffering for 2afb06b1-c865-4325-943c-88d7b72fcf15:96AD3361432B439AA8FC3330D57EADF7
+[NotebookApp | INFO] Kernel restarted: 2afb06b1-c865-4325-943c-88d7b72fcf15
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2afb06b1-c865-4325-943c-88d7b72fcf15
+[NotebookApp | INFO] Restoring connection for 2afb06b1-c865-4325-943c-88d7b72fcf15:96AD3361432B439AA8FC3330D57EADF7
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Practica.ipynb
+[NotebookApp | INFO] Saving file at /Practica.ipynb
+[NotebookApp | INFO] Saving file at /Practica.ipynb
+[NotebookApp | INFO] Saving file at /Practica.ipynb
+[NotebookApp | INFO] Saving file at /Practica.ipynb
+[NotebookApp | INFO] Saving file at /Practica.ipynb
+[NotebookApp | WARNING] WebSocket ping timeout after 3090077 ms.
+[NotebookApp | INFO] Starting buffering for 2afb06b1-c865-4325-943c-88d7b72fcf15:96AD3361432B439AA8FC3330D57EADF7
+[NotebookApp | WARNING] WebSocket ping timeout after 509980 ms.
+[NotebookApp | INFO] Starting buffering for 15057c9a-b9c2-47ba-87b1-e0e106d11fd6:D51EE8A9F5B44DD9A9DA32B8639DBD63
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] received signal 2, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: 2afb06b1-c865-4325-943c-88d7b72fcf15
+[NotebookApp | INFO] Kernel shutdown: 15057c9a-b9c2-47ba-87b1-e0e106d11fd6
