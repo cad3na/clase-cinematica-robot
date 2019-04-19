@@ -1,0 +1,51 @@
+\documentclass{article}
+
+\usepackage[spanish,es-noquoting]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{bbm}
+\usepackage{bm}
+\usepackage{enumerate}
+\usepackage{tikz}
+%\usepackage{mathpazo}
+
+\usepackage[utf8]{inputenc} % Los caracteres acentuados se pueden escribir normalmente en el código
+\usepackage[T1]{fontenc} % Configuración de fuente de salida
+\usepackage{cmbright}
+\usepackage[sfdefault]{noto}
+\usepackage[ttdefault=true]{AnonymousPro}
+\usepackage[T1]{fontenc}
+\normalfont
+
+\usepackage{multicol}
+\setlength{\columnsep}{0.8cm}
+\usepackage{microtype}
+\usepackage[skins]{tcolorbox}
+
+\usepackage[a4paper, top=0.8cm, bottom=1cm, left=0.8cm, right=0.8cm]{geometry}
+
+\usetikzlibrary{shapes, arrows, decorations.markings}
+
+\newenvironment{amatrix}[1]
+	{\left(\begin{array}{@{}*{#1}{c}|c@{}}}
+	{\end{array}\right)}
+
+\DeclareMathOperator{\atandos}{atan2}
+
+\pagenumbering{gobble}
+\definecolor{rojo}{HTML}{911B21}
+\definecolor{verde}{HTML}{768948}
+\definecolor{azul}{HTML}{0D3B66}
+\definecolor{morado}{HTML}{5F0F40}
+
+\newcommand*{\mathcolor}{}
+\def\mathcolor#1#{\mathcoloraux{#1}}
+
+\newcommand*{\mathcoloraux}[3]{\protect \leavevmode \begingroup \color#1{#2}#3 \endgroup}
+
+\newcommand{\ejex}{\pmb{\mathcolor{rojo}{x}}}
+\newcommand{\ejey}{\pmb{\mathcolor{verde}{y}}}
+\newcommand{\ejez}{\pmb{\mathcolor{azul}{z}}}
+\newcommand{\ejek}{\pmb{\mathcolor{morado}{k}}}
